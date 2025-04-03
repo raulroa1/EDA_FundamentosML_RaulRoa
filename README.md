@@ -5,5 +5,5 @@ import numpy as np # Programación vectorial<br>
 import matplotlib.pyplot as plt # Visualización<br>
 import pandas as pd # Estructura y manipulación de datos<br>
 from scipy.stats import skew # Asimetría<br>
-la rama tiene todos los documentos<br>
-Esta en file changes<br>
+La rama tiene la base de datos anterior, en la cual me equivoque.<br>
+El main está la nueva visualización de datos y explicación en la cual utilicé la base de datos que correspondia.<br>
